@@ -12,5 +12,5 @@
 hs_err_pid*
 
 #ide
-./.idea/*
+.idea
 sdn4n.iml
